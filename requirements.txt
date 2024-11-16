@@ -1,0 +1,4 @@
+pandas
+yfinance 
+bs4
+nbformat
